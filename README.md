@@ -1,7 +1,7 @@
 ## Nice to meet you
-My name is Justin
+<img src='https://i.pinimg.com/564x/7c/3c/f9/7c3cf9799ece6e79850c9f4e1a973fc0.jpg' width='75' alt= "My Favourite Animal">
 
-
+## My name is Justin
 
 ### Here Are some brief Info About Me
 I am an 18-year-old studying Computer Science at Langara College in Vancouver, Canada.
