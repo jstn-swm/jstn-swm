@@ -32,12 +32,11 @@ Soft Skills
 - Attentive to Detail
 - Excessive Planner
 - 10 Months of Motivation Grind (Gotta have hibernation and depression downtime :neutral_face:)
-
+- GYM Bro
 
 ### Weaknesses
 - Often make ideas too ambitious for the project
 - Too Focused on Organization and wasting time
-- Too much of a GYM bro to code all the time
 
 ### To the Programming Gods
 <sub>
