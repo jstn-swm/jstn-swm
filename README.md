@@ -7,6 +7,9 @@
 I am an 18-year-old studying Computer Science at Langara College in Vancouver, Canada.
 :canada::taiwan:
 
+# Twitter
+@Jstn_dev
+
 ### Goals
     My goals are to learn and integrate myself within the GitHub community.
     Currently on vacation, learning C++ and improving my interpersonal skills
