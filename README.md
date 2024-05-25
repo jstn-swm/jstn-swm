@@ -1,51 +1,54 @@
-## Nice to meet you
-<img src='https://i.pinimg.com/564x/7c/3c/f9/7c3cf9799ece6e79850c9f4e1a973fc0.jpg' width='75' alt= "My Favourite Animal">
+<!--README START-->
+<!--
+Create Custom Badges
+https://shields.io/badges/static-badge
+-->
 
-## My name is Justin
+<a name="readme-top"><a>
+
+<div align="center"><img src='https://i.pinimg.com/564x/7c/3c/f9/7c3cf9799ece6e79850c9f4e1a973fc0.jpg' width='75' alt= "My Favourite Animal"></div>
+<div align="center">Nice to meet you</div>
+
+# My name is Justin
 
 ### Here Are some brief Info About Me
-I am an 18-year-old studying Computer Science at Langara College in Vancouver, Canada.
+I am an 19 year old student studying Computer Science at Langara College in Vancouver, Canada.
 :canada::taiwan:
 
-# Twitter
-@Jstn_dev
-
 ### Goals
-    My goals are to learn and integrate myself within the GitHub community.
-    Currently on vacation, learning C++ and improving my interpersonal skills
+    My goals are to learn and integrate into the tech industry.
+    Learning C++ and Java.
 <details>
-  <summary>Motivation :)</summary>
-  It is not just about the destination but also the journey. That's why learning is so fun, it's a lifelong process. It's not fun if it's easy.
+  <summary></summary>
+  It is not just about the destination but also the journey. Learning is a process, it's not easy, trust in the process.
 </details>
 
 ### Strengths
 Technical Skills
 | Proficiency | Languages |
 |-----:|---------------|
-|     1|Java|
-|     2|C++|
-|     3|C|
-|     4|Python|
+| ⭐️⭐️⭐️ |Java|
+|  ⭐️⭐️  |C++|
+|  ⭐️⭐️  |C|
+|   ⭐️   |Python|
 
-Soft Skills
-- I find Fun in Learning and Creating
-- Proactive in Asking Questions and Diving Deeper
-- I love Exploring Programming Topics
-- Studies Data Structure for Fun
-- Attentive to Detail
-- Excessive Planner
-- 10 Months of Motivation Grind (Gotta have hibernation and depression downtime :neutral_face:)
-- GYM Bro
 
-### Weaknesses
-- Often make ideas too ambitious for the project
-- Too Focused on Organization and wasting time
+<div align="center">
 
-### To the Programming Gods
-<sub>
-:bowing_man: Pls bestow me with knowledge and prayers
-</sub>
+# Socials
+    
+[![Twitter][Twitter-Badge]][Twitter-URL]
 
+[![Website][Website-Badge]][Website-URL]
+
+</div>
+
+<!--Twitter-->
+[Twitter-Badge]: https://img.shields.io/badge/-twitter?style=for-the-badge&logo=x&logoColor=black&logoSize=auto&label=%40Jstn_dev&color=grey
+[Twitter-URL]: https://x.com/Jstn_dev
+<!--Website-->
+[Website-Badge]: https://img.shields.io/badge/-website-black?style=for-the-badge&logo=github&colorB=555
+[Website-URL]: hamsandwich.tech
 
 <!--
 **jstn-swm/jstn-swm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
