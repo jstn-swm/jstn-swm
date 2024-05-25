@@ -7,7 +7,7 @@ https://shields.io/badges/static-badge
 <a name="readme-top"><a>
 
 <div align="center"><img src='https://i.pinimg.com/564x/7c/3c/f9/7c3cf9799ece6e79850c9f4e1a973fc0.jpg' width='75' alt= "My Favourite Animal"></div>
-<div align="center">Nice to meet you</div>
+<div align="center">Nice to meet you
 
 # My name is Justin
 
@@ -18,20 +18,22 @@ I am an 19 year old student studying Computer Science at Langara College in Vanc
 ### Goals
     My goals are to learn and integrate into the tech industry.
     Learning C++ and Java.
+</div>
 <details>
   <summary></summary>
   It is not just about the destination but also the journey. Learning is a process, it's not easy, trust in the process.
 </details>
-
+<div align="center">
+    
 ### Strengths
-Technical Skills
+
 | Proficiency | Languages |
 |-----:|---------------|
 | ⭐️⭐️⭐️ |Java|
 |  ⭐️⭐️  |C++|
 |  ⭐️⭐️  |C|
 |   ⭐️   |Python|
-
+</div>
 
 <div align="center">
 
