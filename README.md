@@ -36,7 +36,8 @@ I am an 19 year old student studying Computer Science at Langara College in Vanc
 </div>
 
 <div align="center">
-
+# Projects
+    
 # Socials
     
 [![Twitter][Twitter-Badge]][Twitter-URL]
