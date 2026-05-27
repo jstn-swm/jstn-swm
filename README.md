@@ -42,7 +42,7 @@ Student studying Computer Science in Vancouver.
 [Twitter-URL]: https://x.com/Jstn_dev
 <!--Website-->
 [Website-Badge]: https://img.shields.io/badge/-website-black?style=for-the-badge&logo=github&colorB=555
-[Website-URL]: jstn-swm.github.io
+[Website-URL]: https://jstn-swm.github.io/
 
 <!--
 **jstn-swm/jstn-swm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
