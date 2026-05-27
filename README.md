@@ -12,18 +12,8 @@ https://shields.io/badges/static-badge
 # My name is Justin
 
 ### Here Are some brief Info About Me
-I am an 19 year old student studying Computer Science at Langara College in Vancouver, Canada.
+Student studying Computer Science in Vancouver.
 :canada::taiwan:
-
-### Goals
-    My goals are to learn and integrate into the tech industry.
-    Learning C++ and Java.
-</div>
-<details>
-  <summary></summary>
-  It is not just about the destination but also the journey. Learning is a process, it's not easy, trust in the process.
-</details>
-<div align="center">
     
 ### Strengths
 
@@ -52,7 +42,7 @@ I am an 19 year old student studying Computer Science at Langara College in Vanc
 [Twitter-URL]: https://x.com/Jstn_dev
 <!--Website-->
 [Website-Badge]: https://img.shields.io/badge/-website-black?style=for-the-badge&logo=github&colorB=555
-[Website-URL]: hamsandwich.tech
+[Website-URL]: jstn-swm.github.io
 
 <!--
 **jstn-swm/jstn-swm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
